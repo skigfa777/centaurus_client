@@ -7,3 +7,7 @@ Taskkill /IM ScreenMaker.exe /F
 
 Убрать из автозагрузки (открыть Диспетчер Задач)
 
+---------------
+
+System Requirements:
+OS: Windows 11, .NET Framework  4+
